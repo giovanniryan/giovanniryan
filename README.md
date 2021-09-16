@@ -36,6 +36,9 @@
    ##
    
  <img src="https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif">
-                                                                                                          
+     
+  ![Snake animation](https://github.com/giovanniryan/giovanniryan/blob/output/github-contribution-grid-snake.svg)     
+                                                                                                      
 </div>
+                                                                                                      
   
