@@ -4,7 +4,6 @@
 
 - 🔭 Estou em busca de um emprego
 - 🌱 Estudando HTML5 e CSS
-- 📫 Email: giovanniryandias@outlook.com
 - ♂️
 
 <div>
