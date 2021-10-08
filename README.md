@@ -1,10 +1,7 @@
-### Olá visitante, eu sou o Giovanni Ryan!
+### Olá visitante, eu sou o [Giovanni!](https://github.com/giovanniryan)
     
    ##
 
-- 🔭 Estou em busca de um emprego
-- 🌱 Estudando HTML5 e CSS
-- ♂️
 
 <div>
   <a href="https://github.com/giovanniryan">
