@@ -16,11 +16,10 @@
 <p align="center">                                                                                                                     
                                                                                                                                                    
   
-  <img  alt="Gio-HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/> 
-  <img  alt="Gio-CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/> 
+ 
   <img  alt="Gio-Python" height="45" src="https://img.icons8.com/fluency/48/000000/python.png"/>  
   <img  alt="Gio-MYSQL" height="45" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
-  <img  alt="Gio-MYSQL" height="45" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"
+ 
                                                                                                                        
   </p>
 
