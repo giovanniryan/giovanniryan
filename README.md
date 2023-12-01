@@ -6,7 +6,6 @@
 
 <div>
   <a href="https://github.com/giovanniryan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovanniryan&show_icons=true&theme=nightowl"ude_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanniryan&layout=compact&langs_count=7&theme=nightowl"/>
                                                                                                                          
 
@@ -19,7 +18,8 @@
  
   <img  alt="Gio-Python" height="45" src="https://img.icons8.com/fluency/48/000000/python.png"/>  
   <img  alt="Gio-MYSQL" height="45" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
- 
+  <img  alt="Gio-Python" height="45" src="https://img.icons8.com/fluency/48/000000/python.png"/>
+    <img  alt="Gio-Python" height="45" src="https://icons8.com.br/icon/UECmBSgBOvPT/microsoft-excel-2019"/>   
                                                                                                                        
   </p>
 
