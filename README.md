@@ -23,22 +23,25 @@
 <br>
     
 <div align="center">  
-<p><a href="https://www.instagram.com/mthalvarez_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<p><a href="https://www.instagram.com/giovanniryan_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div>
 
 
-
-## Skills ⚔️
-<p align="center">                                                                                                                     
-                                                                                                                                                   
-  <img  alt="Gio-Python" height="45" src="https://img.icons8.com/fluency/48/000000/python.png"/>  
-  <img  alt="Gio-MYSQL" height="45" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   
 ### Main skills:
-![Excel](https://img.shields.io/badge/-Excel-0D1117?style=for-the-badge&logo=excel&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Excel](https://img.shields.io/badge/-Excel-0D1117?style=for-the-badge&logo=excel&labelColor=8A2BE&textColor=8A2BE)&nbsp;
 ![Power Bi](https://img.shields.io/badge/-PowerBi-0D1117?style=for-the-badge&logo=powerbi&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=8A2BE&text8A2BE)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+
+### Other Knowledge:
+![LookerStudio](https://img.shields.io/badge/-lookerstudio-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![Tableau](https://img.shields.io/badge/-Tableau-0D1117?style=for-the-badge&logo=Tableau&logoColor=1572B6&labelColor=0D1117)&nbsp;
+  
+### Studying in this moment:
+![Estatística](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Matemática](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
  
                                                                                                                        
   </p>
@@ -46,26 +49,22 @@
                                                                                                                      
  
                                                                                                                      
- ## Contato e Redes Sociais 👥
+ ### Contct
 <p align="center">      
-  <a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:contatogiovanniryan@gmail.com"> <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:contatogiovanniryan@gmail.com"></a>                     <a href = "mailto:giovanniryandias@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>                                     <a href="https://www.instagram.com/vanni.ryann/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/giovanniryan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "mailto:giovanniryandias@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
+</a>                                     
+<a href="https://www.linkedin.com/in/giovanniryan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a> 
   </p> 
    
    
-   ##
-   
- <img src="https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif">
      
   ![Snake animation](https://github.com/giovanniryan/giovanniryan/blob/output/github-contribution-grid-snake.svg)     
                                                                                                       
 </div>
                                                                                                       
-## Total de Visitas no perfil 🔎 <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/giovanniryan/count.svg" />
- </p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&section=footer"/>
+
                                                                                                       
   
