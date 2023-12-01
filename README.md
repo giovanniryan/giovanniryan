@@ -40,8 +40,8 @@
 ![Tableau](https://img.shields.io/badge/-Tableau-0D1117?style=for-the-badge&logo=Tableau&logoColor=1572B6&labelColor=0D1117)&nbsp;
   
 ### Studying in this moment:
-![Estatística](https://img.shields.io/badge/-Statistic-0D1117?style=for-the-badge&logo=statistic.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Matemática](https://img.shields.io/badge/-Math-0D1117?style=for-the-badge&logo=matht&labelColor=0D1117)&nbsp;
+![Estatística](https://img.shields.io/badge/-Estatística-0D1117?style=for-the-badge&logo=book&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Matemática](https://img.shields.io/badge/-Matemática-0D1117?style=for-the-badge&logo=matht&labelColor=0D1117)&nbsp;
  
                                                                                                                        
   </p>
