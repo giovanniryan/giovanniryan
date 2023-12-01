@@ -18,8 +18,8 @@
  
   <img  alt="Gio-Python" height="45" src="https://img.icons8.com/fluency/48/000000/python.png"/>  
   <img  alt="Gio-MYSQL" height="45" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
-  <img  alt="Gio-Python" height="45" src="https://img.icons8.com/fluency/48/000000/python.png"/>
-    <img  alt="Gio-Python" height="45" src="https://icons8.com.br/icon/UECmBSgBOvPT/microsoft-excel-2019"/>   
+    <img  alt="Gio-Excel" height="45" src="https://icons8.com.br/icon/UECmBSgBOvPT/microsoft-excel-2019"/>   
+    <img  alt="Gio-BI" height="45" src="[https://img.icons8.com/fluency/48/000000/python.pn](https://icons8.com.br/icon/3sGOUDo9nJ4k/poder-bi-2021)g"/> 
                                                                                                                        
   </p>
 
