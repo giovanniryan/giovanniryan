@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=purple&height=200&section=header&text=&fontSize=90)
 
 
 ## Bem-vindo(a) ao meu perfil, eu sou o [Giovanni](https://github.com/giovanniryan). Sinta-se em casa. 😁
