@@ -36,8 +36,8 @@
 
 
 ### Other Knowledge:
-![LookerStudio](https://img.shields.io/badge/-lookerstudio-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![Tableau](https://img.shields.io/badge/-Tableau-0D1117?style=for-the-badge&logo=Tableau&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![LookerStudio](https://img.shields.io/badge/-lookerstudio-0D1117?style=for-the-badge&logo=lookerstudio&labelColor=0D1117)&nbsp;
+![Tableau](https://img.shields.io/badge/-Tableau-0D1117?style=for-the-badge&logo=Tableau&logo=tableau&Color=1572B6&labelColor=0D1117)&nbsp;
   
 ### Studying in this moment:
 ![Estatística](https://img.shields.io/badge/-Estatística-0D1117?style=for-the-badge&logo=book&labelColor=0D1117&textColor=0D1117)&nbsp;
